@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0, TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/2554/index.mpd
+#EXTINF:34, TV360+2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/1/index.mpd
+#EXTINF:0, TV360+3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/148/index.mpd
+#EXTINF:32, TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/2458/index.mpd
+#EXTINF:0, TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
+#EXTINF:30, TV360+10
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
+#EXTINF:32, TV360+11
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:0, TV360+12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/10001/index.mpd
+#EXTINF:0, TV360 Promo
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/9904/index.m3u8
+#EXTINF:60, TV360 Livestream
+#EXTVLCOPT:network-caching=1000
+https://vietanhtv.id.vn/tv360/9888/index.m3u8
+#EXTINF:3600, Sự Kiện VTVPrime 1
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 2
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 3
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 4
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 5
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 6
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 7
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 8
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 9
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
+#EXTINF:0, Sự Kiện VTVPrime 10
+#EXTVLCOPT:network-caching=1000
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
+#EXTINF:24, Sự Kiện VTVPrime 11
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#EXTINF:24, Sự Kiện VTVPrime 12
+https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#EXTINF:24, Sự Kiện VTVPrime 13
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#EXTINF:24, Sự Kiện VTVPrime 14
+https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
+#EXTINF:24, Sự Kiện VTVPrime 15
+https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:24, Sự Kiện VTVPrime 16
+https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:13, FPT Event 1
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Event 2
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:0, FPT Event 3
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 1
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 2
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 3
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 4
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 5
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 6
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 7
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:13, FPT Sự Kiện 8
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:6,blv_tholan
+#EXTVLCOPT:network-caching=1000
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:6,blv_aco
+#EXTVLCOPT:network-caching=1000
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:6,blv_bipcon
+#EXTVLCOPT:network-caching=1000
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:6,blv_vantich
+#EXTVLCOPT:network-caching=1000
+https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+
+
+
