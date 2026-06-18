@@ -152,3 +152,18 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN",blv_vantich
 #EXTVLCOPT:network-caching=1000
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN",blv_nguoikien
+#EXTVLCOPT:network-caching=1000
+https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN",blv_phanca
+#EXTVLCOPT:network-caching=1000
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN",blv_taotinhtao
+#EXTVLCOPT:network-caching=1000
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN",blv_phananh
+#EXTVLCOPT:network-caching=1000
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN",blv_taokinhte
+#EXTVLCOPT:network-caching=1000
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
