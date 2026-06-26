@@ -22,7 +22,7 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 http://14.162.59.196:8889/Vieon.php?id=vtv3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-TV360
 #EXTVLCOPT:network-caching=1000
-http://14.162.59.196:8889/ace/tv360mpd.php?id=1
+http://14.162.59.196:8889/ace/tv360mpd.php?id=3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
@@ -32,6 +32,9 @@ http://14.162.59.196:8889/Vieon.php?id=vtv6
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/ace/tv360mpd.php?id=10043
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360-2
+#EXTVLCOPT:network-caching=1000
+http://14.162.59.196:8889/ace/tv360mpd.php?id=4
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6
 #EXTVLCOPT:network-caching=1000
 https://ace.hoiquan.click/module/IPTV/?id=vtv6&accKenh=vuminhthanh1
