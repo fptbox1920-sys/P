@@ -1,31 +1,34 @@
 #EXTM3U
-https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/Vieon.php?id=vtv2
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-FPT
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/ace/tv360mpd.php?id=3
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3
-#EXTVLCOPT:network-caching=1000
-https://ace.hoiquan.click/module/IPTV/?id=vtv3&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/Vieon.php?id=vtv3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-TV360
 #EXTVLCOPT:network-caching=1000
-http://14.162.59.196:8889/ace/tv360mpd.php?id=3
+http://14.162.59.196:8889/ace/tv360mpd.php?id=4
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/Vieon.php?id=vtv6
@@ -35,12 +38,9 @@ http://14.162.59.196:8889/ace/tv360mpd.php?id=10043
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360 2
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/ace/tv360mpd.php?id=4
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7-FPT
 #EXTVLCOPT:network-caching=1000
-https://ace.hoiquan.click/module/IPTV/?id=vtv6&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7
-#EXTVLCOPT:network-caching=1000
-https://ace.hoiquan.click/module/IPTV/?id=vtv7&accKenh=vuminhthanh1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
@@ -50,24 +50,24 @@ http://14.162.59.196:8889/Vieon.php?id=vtv7
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/ace/tv360mpd.php?id=6
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV9
-#EXTVLCOPT:network-caching=1000
-https://ace.hoiquan.click/module/IPTV/?id=vtv9&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV9-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV9-FPT
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV9-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/Vieon.php?id=vtv9
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV9-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/ace/tv360mpd.php?id=8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV10
-#EXTVLCOPT:network-caching=1000
-https://ace.hoiquan.click/module/IPTV/?id=vtv10&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV10-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv10/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV10-FPT
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv10hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV10-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.162.59.196:8889/Vieon.php?id=vtv10
