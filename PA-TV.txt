@@ -20,9 +20,6 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=4
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VIEON
-#EXTVLCOPT:network-caching=1000
-http://14.162.60.100:8889/Vieon.php?id=vtv6
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-FPT
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
@@ -227,6 +224,33 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN",blv_phanhalinh
 #EXTVLCOPT:network-caching=1000
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 group-title="ACE Stream", SkysportPremierLeague UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="ACE Stream", SkysportPremierLeague2 UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 group-title="ACE Stream",  SkysportFootball UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="ACE Stream",  SkysportMainEvent UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="ACE Stream",  SkysportArena UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="ACE Stream",  TNTsport1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="ACE Stream",  TNTsport2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="ACE Stream",  TNTsport3
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="ACE Stream",  TNTsport4
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="PA Stream", [VN] T1 vs KC | TLAW vs DCG | MSI 2026 - Vòng Khởi Động Ngày 29.06.2026
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782728351/ei/P_JBat7RFpXN2roPl9fvoAo/ip/203.205.34.228/id/vhDwmIYPFDU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/ARmQxEXDPkI47SByd6452qUvKxtRAKZU5g7jZB7Ge0HxD4DxFZ9o0MhFNmVJGwwcTsawth3H-BF5FZ0w/spc/SQ-umuZiB-fPEV5Ur06FYjHaeZdSO57UOpn-JO8ix1yvJoyqWiMgKAAX0g/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMUlBYPURjuf4llEWF4-PMoc5jR-xmZnZl0ECP_BBbN8AiEAoKziG_rSSv_13db755a11dBhMOv9nmr4vRudefep4Ls%3D/file/index.m3u8?range=0-
