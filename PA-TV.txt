@@ -2,27 +2,33 @@
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2
+#EXTVLCOPT:network-caching=1000
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.60.100:8889/ace/tv360mpd.php?id=3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-FPT
 #EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3
+#EXTVLCOPT:network-caching=1000
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT
 #EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-TV360
-#EXTVLCOPT:network-caching=1000
-http://14.162.60.100:8889/ace/tv360mpd.php?id=4
+https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-FPT
 #EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6
+#EXTVLCOPT:network-caching=1000
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV6_HD
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.60.100:8889/ace/tv360mpd.php?id=10043
@@ -31,7 +37,7 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=10043
 http://14.162.60.100:8889/ace/tv360mpd.php?id=4
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7-FPT
 #EXTVLCOPT:network-caching=1000
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
+https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV7-VTVGO
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
