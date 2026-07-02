@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-VTVGO
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2
 #EXTVLCOPT:network-caching=1000
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-VTVGO
+#EXTVLCOPT:network-caching=1000
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV2-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.60.100:8889/ace/tv360mpd.php?id=3
