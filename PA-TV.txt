@@ -236,6 +236,6 @@ http://123.24.83.129:8889/wed.php?id=1164
 #EXTINF:-1 group-title="PA Stream", ESPORT VTVGO
 #EXTVLCOPT:network-caching=1000
 https://events.vtvdigital.vn/livestream/esports-1080p50fps2.m3u8
-#EXTINF:-1 group-title="PA Stream", Chung kết World Cup 2022 - ĐT Argentina vs ĐT Pháp - Messi màu nhiệm - phi thường Mbappe
+#EXTINF:-1 group-title="PA Stream", Chung kết World Cup 2022 ĐT Argentina vs ĐT Pháp Messi màu nhiệm phi thường Mbappe
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/-Yx1Vfu7mEzchS7g_fyZhw/1783490819/vtvgo-media/vod/2026/06/04/THETHAO_CHUNGKET_2022.mp4/index.m3u8
