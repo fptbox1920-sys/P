@@ -56,18 +56,6 @@ http://14.162.60.100:8889/Vieon.php?id=vtv10
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV10-TV360
 #EXTVLCOPT:network-caching=1000
 http://14.162.60.100:8889/ace/tv360mpd.php?id=98
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp", Bình Luận Cảm xúc
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp", Tín Hiệu Nguyên Bản
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 1
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp", Bình Luận Cảm xúc 2
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp", Tín Hiệu Nguyên Bản 2
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 #EXTINF:-1 group-title="VTV360", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
