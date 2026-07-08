@@ -208,7 +208,7 @@ https://events.vtvdigital.vn/livestream/esports-1080p50fps2.m3u8
 https://vtvgo-vods.vtvdigital.vn/-Yx1Vfu7mEzchS7g_fyZhw/1783490819/vtvgo-media/vod/2026/06/04/THETHAO_CHUNGKET_2022.mp4/index.m3u8
 #EXTINF:-1 group-title="Xem Lại", Novak Djokovic v Jannik Sinner Full Match | Australian Open 2026 Semifinal
 #EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783427551/ei/f51Mav-oH8CNqL8P87fkyQ0/ip/203.205.34.228/id/ac73d848796d6298/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-jhjup-nboz.googlevideo.com/cps/139/met/1783405951%2C/mh/Xn/mm/31%2C26/mn/sn-jhjup-nboz%2Csn-npoldn7d/ms/au%2Conr/mv/m/mvi/1/pl/23/rms/au%2Cau/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2232500/bui/ARmQxEXzQpawC3BSHMsRD4alJeSD6ijOuVuvo0WkNWJLwAPlDfFWY8HOmytV0GREN2NaYdGPhvAd3JRL/spc/SQ-umgw7ZfNG1fcsKIKbeT_fGKbmyPO7-2lH6kmb5huItHpmfWEBwskZZ1Pn/vprv/1/go/1/rqh/5/mt/1783405026/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52017147/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgWsRmXW2XBd2928C-bisnxFzccWuF5hEriBJJVj81mjACIGujyGOPtHS59C8Y26iMRCmb9gInv3Yh2j4ii9JtWcZs/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRAIgQHVIMZ_4Gpr_REDBGsYjjpnfZ0zyaqsZSsm7ocgETboCIEMz46phcjxGssfrZcW3pdibGjZ4yxhLyaeCjz1wQC0O/file/index.m3u8?range=0-
+
 #EXTINF:-1 group-title="Xem Lại",Argentina vs Egypt Round of 16 FIFA World Cup 2026
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/LXcpq9n9wn8O4Dioex-jnA/1783568807/vtvgo-media/vod/worldcup2026/ARG_EGY_CAMXUC.mp4/index.m3u8
