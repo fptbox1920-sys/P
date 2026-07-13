@@ -209,9 +209,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783875090/ei/
 #EXTINF:-1 group-title="Xem Lại", Chung kết World Cup 2022 ĐT Argentina vs ĐT Pháp Messi màu nhiệm phi thường Mbappe
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/-Yx1Vfu7mEzchS7g_fyZhw/1783490819/vtvgo-media/vod/2026/06/04/THETHAO_CHUNGKET_2022.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại", Novak Djokovic v Jannik Sinner Full Match | Australian Open 2026 Semifinal
+#EXTINF:-1 group-title="Xem Lại", [VN] BLG vs HLE | MSI 2026 - Chung Kết Tổng 12.07.2026
 #EXTVLCOPT:network-caching=1000
-
+https://rr2---sn-jhjup-nboz.googlevideo.com/videoplayback?expire=1783937275&ei=m2RUavP1M4-BvcAPjtjkiAc&ip=203.205.34.228&id=o-AEQDDUjvSQuRdRNasardheTp_7VjVIhjHCIslGATKrSA&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C394%2C395%2C396%2C397%2C398%2C399%2C400&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=709&met=1783915675%2C&mh=gb&mm=31%2C26&mn=sn-jhjup-nboz%2Csn-npoeene6&ms=au%2Conr&mv=m&mvi=2&pl=23&rms=au%2Cau&initcwndbps=1938750&bui=AZFlqhMCcgTY2M6syWsbreKwzXUeW65OoMa88x69cMGgKcXbYCYUPf0a0j3ia7j58_7HgwqV65j8TEjX&spc=SQ-ummCuRTQlBGlgUZskVY1ujbM&vprv=1&svpuc=1&mime=video%2Fmp4&ns=T-QFbmO4e9ZvZbfNcVQ0OUkW&rqh=1&gir=yes&clen=11415269763&dur=26563.533&lmt=1783860203564672&mt=1783915274&fvip=4&keepalive=yes&lmw=1&fexp=51565115%2C52017147&c=TVHTML5&sefc=1&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRNvQ7hAN0VMFgPpFz620vL1t93HYWtzHTnj3ZtZPA_cCIAIYlgKMNM6-DBXVpABZzuOIWDGx4Vnl1t4tcrZF58c9
 #EXTINF:-1 group-title="Xem Lại",Argentina vs Egypt Round of 16 FIFA World Cup 2026
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/LXcpq9n9wn8O4Dioex-jnA/1783568807/vtvgo-media/vod/worldcup2026/ARG_EGY_CAMXUC.mp4/index.m3u8
