@@ -5,7 +5,7 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VIEON
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VIEON
 #EXTVLCOPT:network-caching=1000
 http://14.248.58.208:8889/Vieon.php?id=vtv3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
