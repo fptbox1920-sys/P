@@ -198,3 +198,6 @@ https://vtvgo-vods.vtvdigital.vn/dRFo-6jkL8P2-QNtxwXtpg/1784202648/vtvgo-media/v
 #EXTINF:-1 group-title="Xem Lại", Anh vs Argentina Bán kết FIFA World Cup 2026™
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/bu1z2iK7Ie5zpLBkT1luTA/1784287506/vtvgo-media/vod/worldcup2026/0715-anh-argen-full-ok.mp4/index.m3u8
+#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://vtvgo-vods.vtvdigital.vn/k_-tX2dBoirojUetyaMkQQ/1784308508/vtvgo-media/vod/2026/07/15/0715_PHAP_TBN_FULL.mp4/index.m3u8
