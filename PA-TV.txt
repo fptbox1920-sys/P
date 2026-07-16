@@ -192,9 +192,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783875090/ei/
 #EXTINF:-1 group-title="Xem Lại", Chung kết World Cup 2022 ĐT Argentina vs ĐT Pháp Messi màu nhiệm phi thường Mbappe
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/j4EPiQIAx0xxx45wBIqVSA/1784204084/vtvgo-media/vod/2026/06/04/THETHAO_CHUNGKET_2022.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại",Pháp vs Tây Ban Nha | Bán kết FIFA World Cup 2026™
+#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA World Cup 2026™
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/dRFo-6jkL8P2-QNtxwXtpg/1784202648/vtvgo-media/vod/worldcup2026/FRA_ESP_CAMXUC.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại",Anh vs Argentina | Bán kết FIFA World Cup 2026™
+#EXTINF:-1 group-title="Xem Lại", Anh vs Argentina Bán kết FIFA World Cup 2026™
 #EXTVLCOPT:network-caching=1000
-https://vtvgo-vods.vtvdigital.vn/l0wf01A_4m948yZPMb1l7g/1784260993/vtvgo-media/vod/worldcup2026/ENG_ARG_CAMXUC.mp4/index.m3u8
+https://vtvgo-vods.vtvdigital.vn/bu1z2iK7Ie5zpLBkT1luTA/1784287506/vtvgo-media/vod/worldcup2026/0715-anh-argen-full-ok.mp4/index.m3u8
