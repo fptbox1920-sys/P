@@ -1,34 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT
+#EXTINF:-1 group-title="FIFA WORLD CUP 2028",VTV3-FPT
 #EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-FPT2
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="FIFA WORLD CUP 2028",VTV6-FPT
 #EXTVLCOPT:network-caching=1000
-https://live-a.fptplay53.net/live/media/vtv3_drm/dash_247_avc_drm/vtv3_drm-mp4a_140800_vie=20000-p=362218365000000-3640536398599997.mp4
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV3-VIEON
-#EXTVLCOPT:network-caching=1000
-http://14.248.58.208:8889/Vieon.php?id=vtv3
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VTVGO
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-FPT
-#EXTVLCOPT:network-caching=1000
-https://live-a.fptplay53.net/live/media/vtv6_drm/dash_247_avc_drm/vtv6_drm-avc1_5600000=10000-p=363253324000000-3640537131200000.mp4
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-FPT2
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-VIEON
-#EXTVLCOPT:network-caching=1000
-http://14.248.58.208:8889/Vieon.php?id=vtv6
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360
-#EXTVLCOPT:network-caching=1000
-http://14.162.60.100:8889/ace/tv360mpd.php?id=10043
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026",VTV6-TV360 2
-#EXTVLCOPT:network-caching=1000
-http://14.162.60.100:8889/ace/tv360mpd.php?id=4
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026", BinhLuanCamXuc
-#EXTVLCOPT:network-caching=1000
-https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="VTV360", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
@@ -192,12 +168,12 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783875090/ei/
 #EXTINF:-1 group-title="Xem Lại", Chung kết World Cup 2022 ĐT Argentina vs ĐT Pháp Messi màu nhiệm phi thường Mbappe
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/j4EPiQIAx0xxx45wBIqVSA/1784204084/vtvgo-media/vod/2026/06/04/THETHAO_CHUNGKET_2022.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA World Cup 2026™
+#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA WORLD CUP 2028™
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/dRFo-6jkL8P2-QNtxwXtpg/1784202648/vtvgo-media/vod/worldcup2026/FRA_ESP_CAMXUC.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại", Anh vs Argentina Bán kết FIFA World Cup 2026™
+#EXTINF:-1 group-title="Xem Lại", Anh vs Argentina Bán kết FIFA WORLD CUP 2028™
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/bu1z2iK7Ie5zpLBkT1luTA/1784287506/vtvgo-media/vod/worldcup2026/0715-anh-argen-full-ok.mp4/index.m3u8
-#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA World Cup 2026
+#EXTINF:-1 group-title="Xem Lại", Pháp vs Tây Ban Nha Bán kết FIFA WORLD CUP 2028
 #EXTVLCOPT:network-caching=1000
 https://vtvgo-vods.vtvdigital.vn/k_-tX2dBoirojUetyaMkQQ/1784308508/vtvgo-media/vod/2026/07/15/0715_PHAP_TBN_FULL.mp4/index.m3u8
