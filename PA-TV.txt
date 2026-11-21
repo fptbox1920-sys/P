@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="PA Stream", SKY SPORT HD TENNIS
 #EXTVLCOPT:network-caching=1000
 https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LXNreS1zcG9ydHMtdGVubmlzIiwiaWF0IjoxNzk1MjczMjcxLCJleHAiOjE3OTUzMDIwNzEsImlwIjoiMjAzLjIwNS4zNC4yMjgiLCJ1aWQiOiJkNGU3NjkyMi1lNGI4LTQwZWUtYWE5ZC1iMDkzNTdkMTRjNjIifQ.jI8Cgslv7j2rA6keRo2ldYsoitIzLiygFvY0J4j_7KY
+#EXTINF:-1 group-title="PA Stream", SKY SPORT PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+https://papacito.cfd/m3u/now-sky-sports-premier-league34434/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoibm93LXNreS1zcG9ydHMtcHJlbWllci1sZWFndWUzNDQzNCIsImlhdCI6MTc5NTI3NjI5NywiZXhwIjoxNzk1MzA1MDk3LCJpcCI6IjIwMy4yMDUuMzQuMjI4IiwidWlkIjoiZDRlNzY5MjItZTRiOC00MGVlLWFhOWQtYjA5MzU3ZDE0YzYyIn0.LHI3m4P1xMHHPusqum3xFblKdJ9bjR7AoBsc7FD67G0
 #EXTINF:-1 group-title="FIFA WORLD CUP 2028",VTV3-FPT
 #EXTVLCOPT:network-caching=1000
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
